@@ -1,1 +1,1 @@
-I had Users can input a city of their choice to receive real-time weather updates.
+Users can input a city of their choice to receive real-time weather updates.
